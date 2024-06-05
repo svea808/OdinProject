@@ -1,17 +1,11 @@
 
-* {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    text-align: center;
-    text-transform: capitalize;
-}
 .HeaderText {
-    color: red;
+    color: black(19, 35, 250, 0.178);
     background-color: gray;
 }
 
 .ADDVehicles {
-    color: blue;
+    color: red;
     background-color: aqua;
 }
 
